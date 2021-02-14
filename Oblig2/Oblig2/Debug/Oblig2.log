@@ -1,0 +1,10 @@
+﻿  Oblig2.cpp
+C:\Users\magnu\source\repos\Oblig2\Oblig2\Oblig2.cpp(314,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\magnu\source\repos\Oblig2\Oblig2\Oblig2.cpp(654,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\magnu\source\repos\Oblig2\Oblig2\Oblig2.cpp(663,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\magnu\source\repos\Oblig2\Oblig2\Oblig2.cpp(676,47): warning C4018: '<': signed/unsigned mismatch
+C:\Users\magnu\source\repos\Oblig2\Oblig2\Oblig2.cpp(699,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\magnu\source\repos\Oblig2\Oblig2\Oblig2.cpp(712,47): warning C4018: '<': signed/unsigned mismatch
+C:\Users\magnu\source\repos\Oblig2\Oblig2\Oblig2.cpp(388): warning C4715: 'selectProb': not all control paths return a value
+C:\Users\magnu\source\repos\Oblig2\Oblig2\Oblig2.cpp(631): warning C4715: 'getCarState': not all control paths return a value
+  Oblig2.vcxproj -> C:\Users\magnu\source\repos\Oblig2\Debug\Oblig2.exe
