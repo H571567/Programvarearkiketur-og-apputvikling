@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SolarSystem/1.0.0": {
+        "dependencies": {
+          "SpaceLibrary": "1.0.0"
+        },
+        "runtime": {
+          "SolarSystem.dll": {}
+        }
+      },
+      "SpaceLibrary/1.0.0": {
+        "runtime": {
+          "SolarSystemLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SolarSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SpaceLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
